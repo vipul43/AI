@@ -25,3 +25,6 @@
 [submodule "perceptron"]
 	path = perceptron
 	url = git@github.com:vipul43/perceptron.git
+[submodule "linear_regresion"]
+	path = linear_regresion
+	url = git@github.com:vipul43/linear_regression.git

@@ -1,0 +1,27 @@
+[submodule "CS5007_DL"]
+	path = CS5007_DL
+	url = git@github.com:vipul43/CS5007_DL.git
+[submodule "a_star_search_algorithm"]
+	path = a_star_search_algorithm
+	url = git@github.com:vipul43/a_star_search_algorithm.git
+[submodule "image_description"]
+	path = image_description
+	url = git@github.com:vipul43/image_description.git
+[submodule "CS2180_AI_LAB"]
+	path = CS2180_AI_LAB
+	url = git@github.com:vipul43/CS2180_AI_LAB.git
+[submodule "friends_classifier"]
+	path = friends_classifier
+	url = git@github.com:vipul43/friends_classifier.git
+[submodule "image_captioning"]
+	path = image_captioning
+	url = git@github.com:vipul43/image_captioning.git
+[submodule "object_detection"]
+	path = object_detection
+	url = git@github.com:vipul43/object_detection.git
+[submodule "funny_text_generator"]
+	path = funny_text_generator
+	url = git@github.com:vipul43/funny_text_generator.git
+[submodule "perceptron"]
+	path = perceptron
+	url = git@github.com:vipul43/perceptron.git
